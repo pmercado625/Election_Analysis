@@ -17,7 +17,7 @@ The analysis of the election shows that:
     - Denver: 82.8% (306,055)
     - Arapahoe: 6.7% (24,801)
  - Denver had the largest turnout
-- The candidates were
+- The candidates were:
 
     - Charles Casper Stockham
 
