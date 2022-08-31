@@ -7,12 +7,16 @@ A colorado Board of Elections employee has given you the following tasks to comp
   3. Calculate the total number of votes each candidate received.
   4. Calculate the percentage of votes each candidate won.
   5. Determine the winner of the election based on popular vote.
-## Resources
-- Data Source: election_results.csv
-- Software: Python 3.6.1, Visual Studio Code, 3.7.6
-## Summary
+## Election Audit Results
 The analysis of the election shows that:
 - There were 369,711 votes cast in the election.
+- The number of votes from each county is:
+   - County Votes:
+    - Jefferson: 10.5 (38,855)
+    - Denver: 82.8 (306,055)
+    - Arapahoe: 6.7 (24,801)
+    With Denver having the largest percentage
+
 - The candidates were
 
     - Charles Casper Stockham: 23.0% (85,214)
